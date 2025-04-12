@@ -1,6 +1,7 @@
 # Project_Ignis
-THIS CLIENT IS NOT FUNCTIONAL YET.
-ATTEMPTING TO LAUNCH MINECRAFT WITH THIS CLIENT WILL RESULT IN AN INSTANT CRASH
-
-
-This is an experimental Minecraft client currently under development.
+Highly customizable client for Fabric 1.21.4
+<br>
+Can be downloaded as a .mrpack file for easy import.
+<br>
+<br>
+[Download](https://github.com/DiamondDreng/Project_Ignis/releases)
